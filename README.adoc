@@ -1,0 +1,5 @@
+= Based
+
+Some very base programs with Unix's coreutils arg/stdin parsing.
+
+
